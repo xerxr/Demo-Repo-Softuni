@@ -1,2 +1,2 @@
 # Demo-Repo-Softuni
-My first git hub repo
+My first github repo
